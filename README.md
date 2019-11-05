@@ -1,4 +1,5 @@
 # python-newble
+# 第一部分：python_basis
 # python基础知识
 # 内容：
 # 1.input和print输入和输出
@@ -6,3 +7,10 @@
 # 3.字符编码
 # 4.list列表
 # 5.tuple元组
+# 6.条件判断
+# 7.for和while循环
+# 8.dict字典
+# 9.set
+# 第二部分：python_function
+# 函数
+# 内容
