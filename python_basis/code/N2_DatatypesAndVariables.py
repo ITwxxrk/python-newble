@@ -3,7 +3,7 @@
 ## 数据类型
 
 ### 转义字符
-print('I\'m \"OK\"!')  #\'表示的是'，\"表示的是"
+print('I\'m \"OK\"!')  # \'表示的是'，\"表示的是"
 print('I\'m OK.')
 print('I\'m learning \nPython.') # \n表示换行
 print('\\\n\\')		# \\表示的字符是\
@@ -23,19 +23,19 @@ print(r'''I'm OK!
 I'm learning Python!''')
 
 
-###布尔型:True,False
+### 布尔型:True,False
 
-print(5>3)	#True:真
-print(10>135)	#False:假
-print(5>3 or 10>135)	#or:或,条件中有一个为真即全为真True;条件全为假时即为假False
-print(5>3 and 10>135)	#and:并,条件中有一个为假即全为假False;条件全为真时即为真True
+print(5>3)	# True:真
+print(10>135)	# False:假
+print(5>3 or 10>135)	# or:或,条件中有一个为真即全为真True;条件全为假时即为假False
+print(5>3 and 10>135)	# and:并,条件中有一个为假即全为假False;条件全为真时即为真True
 
-###空值：None
+### 空值：None
 
 
-###变量
+### 变量
 
-a = 1 		###动态语言
+a = 1 		### 动态语言
 print(a)
 a='ABC'
 print(a)
@@ -47,7 +47,7 @@ Answer = True
 print(Answer)
 
 
-###赋值
+### 赋值
 
 a='ABC'		###Python解释器干了两件事情：
 			###1.在内存中创建了一个'ABC'的字符串；
