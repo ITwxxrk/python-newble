@@ -46,20 +46,20 @@ print(y.decode('ascii'))
 print(b'\xe4\xb8\xad\xe6\x96\x87'.decode('utf-8',errors='ignore'))
 
 
-##len():计算字符串str包含几个字符
+## len():计算字符串str包含几个字符
 print(len('ABC'))
 print(len('中文'))
 
-#如果换成bytes，len()函数就计算字节数
+# 如果换成bytes,len()函数就计算字节数
 print(len(b'ABC'))
 print(len(b'\xe4\xb8\xad\xe6\x96\x87'))
 print(len('中文'.encode('utf-8')))
 
-#1个中文字符经过UTF-8编码后通常会占用3个字节
-#而1个英文字符只占用1个字节
+# 1个中文字符经过UTF-8编码后通常会占用3个字节
+# 而1个英文字符只占用1个字节
 
-#   格式化
-###	%：	用来格式化字符串
+# 格式化
+###	%：用来格式化字符串
 ###	%str：字符串
 ###	%d：整数
 ###	%f：浮点数
