@@ -37,12 +37,12 @@ print(x.encode('ascii'))
 print('中文'.encode('utf-8'))
 
 
-### 如果我们从网络或磁盘上读取了字节流，那么读到的数据就是bytes
-### 把bytes变为str，就需要用decode()方法
+### 如果我们从网络或磁盘上读取了字节流,那么读到的数据就是bytes
+### 把bytes变为str,就需要用decode()方法
 print(y.decode('ascii'))
-#print(b'\xe4\xb8\xad\xe6\x96\x87',decode(utf-8))
-#如果bytes中包含无法解码的字节，decode()方法会报错,如上一个语句
-#如果bytes中只有一小部分无效的字节，可以传入errors='ignore'忽略错误的字节
+# print(b'\xe4\xb8\xad\xe6\x96\x87',decode(utf-8))
+# 如果bytes中包含无法解码的字节,decode()方法会报错,如上一个语句
+# 如果bytes中只有一小部分无效的字节,可以传入errors='ignore'忽略错误的字节
 print(b'\xe4\xb8\xad\xe6\x96\x87'.decode('utf-8',errors='ignore'))
 
 
