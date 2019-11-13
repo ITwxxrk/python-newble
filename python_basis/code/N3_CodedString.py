@@ -32,7 +32,7 @@ y = b'ABC'	# bytes
 ### str通过encode()方法可以编码为指定的bytes
 ### 纯英文的str可以用ASCII编码为bytes
 ### 含有中文的str可以用UTF-8编码为bytes
-###（含有中文的str无法用ASCII编码，因为中文编码的范围超过了ASCII编码的范围，Python会报错）
+###（含有中文的str无法用ASCII编码,因为中文编码的范围超过了ASCII编码的范围,Python会报错）
 print(x.encode('ascii'))
 print('中文'.encode('utf-8'))
 
