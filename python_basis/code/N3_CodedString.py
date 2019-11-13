@@ -26,7 +26,7 @@ print('\u4e2d\u6587')
 ### 区分'ABC'和b'ABC',前者是str,
 ### 后者虽然内容显示得和前者一样,但bytes的每个字符都只占用一个字节
 x = 'ABC'	# str
-y = b'ABC'	#bytes
+y = b'ABC'	# bytes
 
 
 ### str通过encode()方法可以编码为指定的bytes
