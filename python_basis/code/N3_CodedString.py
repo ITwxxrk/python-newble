@@ -25,7 +25,7 @@ print('\u4e2d\u6587')
 
 ### 区分'ABC'和b'ABC',前者是str,
 ### 后者虽然内容显示得和前者一样,但bytes的每个字符都只占用一个字节
-x = 'ABC'	#str
+x = 'ABC'	# str
 y = b'ABC'	#bytes
 
 
