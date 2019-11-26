@@ -5,7 +5,7 @@
 L = ['Michael','Sarah','Tracy','Bob','Jack']
 print(L[0],L[1],L[2])	#取前3个元素
 
-## 取前N个元素，也就是索引为0-(N-1)的元素，
+## 取前N个元素,也就是索引为0-(N-1)的元素,
 ## 可以用循环
 r = []
 n = 3
@@ -13,7 +13,7 @@ for i in range(n):
 	r.append(L[i])
 print(r)
 
-### 切片（Slice）操作符
+### 切片(Slice)操作符
 
 print(L[0:3]) #取前3个元素,从索引0开始取，直到索引3为止，但不包括索引3
 print(L[2:4])
