@@ -36,7 +36,7 @@ print(isinstance([1,2,3],Iterable))	 # list是否可迭代
 print(isinstance(123,Iterable))	# 整数是否可迭代
 
 
-## Python内置的enumerate函数可以把一个list变成'索引-元素对'，
+## Python内置的enumerate函数可以把一个list变成'索引-元素对',
 ## 这样就可以在for循环中同时迭代索引和元素本身
 for i,value in enumerate(['A','B','C']):
 	print(i,value)
