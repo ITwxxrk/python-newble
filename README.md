@@ -1,4 +1,5 @@
 # python-newble
+#（对python学习的一些小程序的记录）
 # 第一部分：python_basis
 # python基础知识
 # 内容：
