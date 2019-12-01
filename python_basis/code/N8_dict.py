@@ -2,7 +2,6 @@
 ## 使用键-值（key-value）存储,具有极快的查找速度
 
 
-
 ### 假设要根据同学的名字查找对应的成绩,如果用list实现,需要两个list。
 ### names = ['Michael', 'Bob', 'Tracy']
 ### scores = [95, 75, 85]
@@ -15,7 +14,6 @@
 ### 用Python写一个dict如下：
 d = {'Michael':95,'Bob':75,'Tracy':85}
 print(d['Michael'])
-
 
 
 
