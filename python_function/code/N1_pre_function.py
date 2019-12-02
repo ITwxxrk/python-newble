@@ -28,4 +28,3 @@ s1 = area_f_cricle(r1)		# 函数调用
 s2 = area_f_cricle(r2)
 s3 = area_f_cricle(r3)
 print('s1=%f\ns2=%f\ns3=%f\n' %(s1,s2,s3))
-
