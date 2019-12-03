@@ -27,6 +27,3 @@ print('100 + 300 =' , 100 + 300)
 name = input('please enter your name:') # 输入用户的名字
 print(name)
 print('hello' , name)
-
-
-
