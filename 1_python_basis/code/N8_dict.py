@@ -27,7 +27,6 @@ print(d['Michael'])
 
 
 
-
 ## 把数据放入dict的方法,除了初始化时指定外,还可以通过key放入。
 d['Adam'] = 67
 print(d)
