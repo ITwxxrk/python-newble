@@ -43,7 +43,6 @@ print(d)
 print(d['Jack'])
 
 
-
 ## 如果key不存在,dict就会报错
 ## 要避免key不存在的错误,有两种办法:
 
