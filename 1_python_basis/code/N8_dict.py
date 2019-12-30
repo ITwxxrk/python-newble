@@ -65,7 +65,6 @@ print(d.pop('Bob'))
 print(d)
 
 
-
 ## dict内部存放的顺序和key放入的顺序是没有关系的
 
 
