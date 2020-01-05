@@ -5,7 +5,6 @@
 ## 当定义一个tuple时,在定义的时候,tuple的元素就必须被确定下来
 classmates = ('Michael','Bob','Tracy')
 
-
 ##	获取元素的方法:同list相同
 ### 用索引访问tuple中的每一个位置的元素
 ### 索引是从0开始的,最后一个元素的索引是len(classmates)-1
