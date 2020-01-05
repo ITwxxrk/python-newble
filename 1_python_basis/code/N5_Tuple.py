@@ -39,7 +39,6 @@ print(t)
 # “指向不变”
 
 
-
 ### practice:
 L = [
 	['Apple','Google','Microsoft'],
