@@ -5,6 +5,7 @@
 def person(name,age,**kw):	# kw:关键字参数
 	print('name:',name,'age:',age,'other:',kw)
 
+	
 # 在调用该函数时，可以只传入必选参数
 print(person('Michael',30))
 
