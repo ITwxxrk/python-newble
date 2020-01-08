@@ -12,7 +12,6 @@ classmates = ('Michael','Bob','Tracy')
 print(classmates[1])
 print(classmates[-1])
 
-
 ## 如果要定义一个空的tuple,可以写成()
 t = ()
 print(t)
