@@ -54,6 +54,7 @@ def findMinAndMax(L):
 			min = i
 	return (min,max)
 
+
 print(findMinAndMax([]))
 print(findMinAndMax([7]))
 print(findMinAndMax([7,1]))
