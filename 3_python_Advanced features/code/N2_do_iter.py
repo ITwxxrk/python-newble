@@ -21,7 +21,6 @@ for k,v in d.items():
 	print(k,v)
 
 
-
 ## 由于字符串也是可迭代对象,因此,也可以作用于for循环
 for ch in 'ABC':
 	print(ch)
