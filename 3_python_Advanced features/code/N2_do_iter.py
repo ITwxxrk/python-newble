@@ -59,6 +59,7 @@ print(findMinAndMax([7]))
 print(findMinAndMax([7,1]))
 print(findMinAndMax([7, 1, 3, 9, 5]))
 
+
 if findMinAndMax([]) != (None, None):
     print('测试失败!')
 elif findMinAndMax([7]) != (7, 7):
