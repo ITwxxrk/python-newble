@@ -8,7 +8,6 @@ if age >= 18 :
 	print('your age is',age)
 	print('adult')
 
-
 ### 给if添加一个else语句,
 ### 如果if判断是False,不要执行if的内容,执行else
 age = 13
