@@ -1,6 +1,5 @@
 # tuple:元祖,有序集合,但一旦初始化就不能修改
 
-
 ## tuple的定义:用小括号()
 ## 当定义一个tuple时,在定义的时候,tuple的元素就必须被确定下来
 classmates = ('Michael','Bob','Tracy')
