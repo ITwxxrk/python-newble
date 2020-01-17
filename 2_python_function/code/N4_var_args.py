@@ -28,8 +28,6 @@ print(power2(5,3))
 
 
 
-
-
 ## 默认参数
 def power3(x,n=2):	# n=2,默认参数
 	s = 1
