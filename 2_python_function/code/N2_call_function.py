@@ -28,6 +28,7 @@ print(m1,m2)
 print(int('123'))
 print(int(12.34))
 
+
 ### float():可以把其他数据类型转换为浮点型
 print(float('12.13'))
 
