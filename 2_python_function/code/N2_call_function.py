@@ -32,6 +32,7 @@ print(int(12.34))
 ### float():可以把其他数据类型转换为浮点型
 print(float('12.13'))
 
+
 ### str():可以把其他数据类型转换为字符串
 print(str(1.23))
 print(str(100))
