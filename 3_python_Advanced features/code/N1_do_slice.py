@@ -1,6 +1,8 @@
 # N1_do_slice.py
 # 切片
 
+
+
 ## 取一个list或tuple的部分元素
 L = ['Michael','Sarah','Tracy','Bob','Jack']
 print(L[0],L[1],L[2])	#取前3个元素
