@@ -17,6 +17,8 @@ for i in range(n):
 	r.append(L[i])
 print(r)
 
+
+
 ### 切片(Slice)操作符
 
 print(L[0:3]) #取前3个元素,从索引0开始取,直到索引3为止,但不包括索引3
