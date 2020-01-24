@@ -35,6 +35,7 @@ print(L[:2])
 print(L[-2:])
 print(L[-2:-1])
 
+
 L1 = list(range(100))
 print(L1)
 print(L1[:10]) #取前10个元素
