@@ -17,7 +17,6 @@ line3''')
 print('''I\'m OK!
 I\'m learning Python!''')
 
-
 print(r'''I'm OK!
 I'm learning Python!''')
 
