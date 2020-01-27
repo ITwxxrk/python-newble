@@ -1,10 +1,7 @@
 # N1_InputAndPrint.py
 # 输入输出
-
 ## 输出函数:print()
-
 ### 用print()在括号中加上字符串,就可以向屏幕上输出指定的文字
-
 print('hello,world')
 
 ### print()函数也可以接受多个字符串,用逗号“,”隔开,就可以连成一串输出
