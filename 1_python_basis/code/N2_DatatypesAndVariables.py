@@ -22,7 +22,6 @@ I'm learning Python!''')
 
 
 ### 布尔型:True,False
-
 print(5>3)	# True:真
 print(10>135)	# False:假
 print(5>3 or 10>135)	# or:或,条件中有一个为真即全为真True;条件全为假时即为假False
