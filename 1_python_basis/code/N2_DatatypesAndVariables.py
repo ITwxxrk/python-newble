@@ -1,8 +1,6 @@
 # N2_DatatypesAndVariables.py
 # 数据类型和变量
-
 ## 数据类型
-
 ### 转义字符
 print('I\'m \"OK\"!')  # \'表示的是',\"表示的是"
 print('I\'m OK.')
