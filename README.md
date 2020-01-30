@@ -35,7 +35,6 @@ python基础知识
 # 小课题
 
 # 题目：1
-# muzhid
 muqianhaimeixianghaozenmezuo
 jihua:mingtiankaishizuo
 jiauou
