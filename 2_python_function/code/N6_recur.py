@@ -6,7 +6,6 @@
 
 ### 举例:
 ### 计算阶乘n! = 1 x 2 x 3 x ... x n,用函数fact(n)表示
-
 def fact1(n):
 	if n == 1:
 		return 1
