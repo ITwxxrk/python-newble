@@ -22,7 +22,6 @@
 ### return None可以简写为return。
 
 
-
 ## 空函数
 ### 可以用pass语句
 def nop():
