@@ -49,6 +49,7 @@ print(b'\xe4\xb8\xad\xe6\x96\x87'.decode('utf-8',errors='ignore'))
 print(len('ABC'))
 print(len('中文'))
 
+
 # 如果换成bytes,len()函数就计算字节数
 print(len(b'ABC'))
 print(len(b'\xe4\xb8\xad\xe6\x96\x87'))
