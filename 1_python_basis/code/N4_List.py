@@ -4,6 +4,7 @@
 classmates = ['Michael','Bob','Tracy']
 print(classmates)
 
+
 ## len():获得list元素的个数
 lc = len(classmates)
 print('len =',lc)
