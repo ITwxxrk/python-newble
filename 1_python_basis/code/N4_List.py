@@ -1,6 +1,5 @@
 # list,列表,可变的有序表
 
-
 ## 列表的定义,用中括号[]
 classmates = ['Michael','Bob','Tracy']
 print(classmates)
