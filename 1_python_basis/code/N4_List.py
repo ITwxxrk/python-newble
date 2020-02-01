@@ -65,6 +65,7 @@ print(s)
 print('len(s) =',len(s))
 print(s[2][0])	#取p[0]的值，即'asp'
 
+
 ### list可以为空
 L = []
 print('len(L) =',len(L))
