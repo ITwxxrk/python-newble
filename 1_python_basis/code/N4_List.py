@@ -9,6 +9,7 @@ print(classmates)
 lc = len(classmates)
 print('len =',lc)
 
+
 ## 用索引访问list中的每一个位置的元素
 ### 索引是从0开始的,最后一个元素的索引是len(classmates)-1
 ### 当索引超出了范围时,Python会报一个IndexError错误
