@@ -38,6 +38,7 @@ print(classmates)
 classmates.pop()
 print(classmates)
 
+
 ## pop(i):删除指定位置的元素
 classmates.pop(2)
 print(classmates) 
