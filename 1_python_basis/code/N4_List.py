@@ -17,6 +17,7 @@ print(classmates[0])
 print(classmates[1])
 print(classmates[2])
 
+
 ### 如果要取最后一个元素,还可以用-1做索引,直接获取最后一个元素
 print(classmates[-1])
 print(classmates[-2])
