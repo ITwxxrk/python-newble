@@ -23,6 +23,7 @@ print(classmates[-1])
 print(classmates[-2])
 print(classmates[-3])
 
+
 ## append():追加元素到末尾
 classmates.append('Adam')
 print(classmates)
