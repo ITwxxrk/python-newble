@@ -43,6 +43,7 @@ print(classmates)
 classmates.pop(2)
 print(classmates) 
 
+
 ## 替换list中任意位置的元素,直接赋值即可
 classmates[0]='Sarah'
 print(classmates)
