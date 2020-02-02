@@ -17,6 +17,7 @@ for x in [1,2,3,4,5,6,7,8,9,10]:
 	sum = sum +x
 print(sum)
 
+
 ### range()函数,可以生成一个整数序列,再通过list()函数可以转换为list
 print(list(range(5)))
 
