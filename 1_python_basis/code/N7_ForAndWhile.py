@@ -29,8 +29,6 @@ for i in range(101):
 print(sum)
 
 
-
-
 ## while 循环
 
 ### 计算100以内所有奇数之和
