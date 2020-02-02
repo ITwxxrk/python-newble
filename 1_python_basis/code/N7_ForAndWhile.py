@@ -48,8 +48,6 @@ for name in L:
 	print('Hello,' + name + '!')
 
 
-
-
 ##  break 和 continue
 ### 这两个语句通常都必须配合if语句使用
 ### 不要滥用break和continue语句。
