@@ -53,6 +53,7 @@ print(classmates)
 L1 = ['Apple',123,True,None]
 print(L1)
 
+
 ### list里面的元素的数据类型可以是list
 L2 = ['Apple',123,['Orange',12,True],'A']
 print(L2)
