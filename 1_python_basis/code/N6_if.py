@@ -58,6 +58,7 @@ if birth < 2000:
 else:
     print('00后')
 
+
 ### practice：
 '''
 小明身高1.75,体重80.5kg。
