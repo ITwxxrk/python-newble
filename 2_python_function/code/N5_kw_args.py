@@ -30,6 +30,7 @@ print(person('Jack', 24, city=extra['city'], job=extra['job']))
 extra = {'city': 'Beijing', 'job': 'Engineer'}
 print(person('Jack', 24, **extra))
 
+
 # extra表示把extra这个dict的所有key-value用关键字参数传入到函数的**kw参数，
 # kw将获得一个dict，注意kw获得的dict是extra的一份拷贝，
 # 对kw的改动不会影响到函数外的extra。
