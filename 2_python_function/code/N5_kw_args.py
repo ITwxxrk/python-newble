@@ -40,6 +40,7 @@ print(person('Jack', 24, **extra))
 ### 对于关键字参数，函数的调用者可以传入任意不受限制的关键字参数
 ### 至于到底传入了哪些，就需要在函数内部通过kw检查
 
+
 #### 以person()函数为例，检查是否有city和job参数：
 def person(name,age,**kw):
 	if 'city' in kw:
