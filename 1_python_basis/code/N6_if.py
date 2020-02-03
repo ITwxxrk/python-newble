@@ -28,7 +28,6 @@ elif age >= 6 :
 else :
 	print('your age is',age)
 	print('kid')
-
 ### if语句执行时是从上往下判断,
 ### 如果在某个判断上是True,把该判断对应的语句执行后,就忽略掉剩下的elif和else
 age = 20
