@@ -9,7 +9,6 @@ def person(name,age,**kw):	# kw:关键字参数
 	
 # 在调用该函数时，可以只传入必选参数
 print(person('Michael',30))
-
 # 也可以传入任意个数的关键字参数
 print(person('BOb',35,city = 'Beijing'))
 print(person('Adam',45,gender = 'M',job = 'Engineer'))
