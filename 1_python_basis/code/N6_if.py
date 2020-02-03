@@ -17,7 +17,6 @@ if age >= 18 :
 else :
 	print('your age is',age)
 	print('teenager')
-
 ### 可以用elif做更细致的判断
 ### elif是else if的缩写,完全可以有多个elif
 age = 3
