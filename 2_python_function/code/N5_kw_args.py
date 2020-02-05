@@ -59,7 +59,6 @@ print(person('Jack',24,city = 'Beijing',adder = 'Chaoyang',zipcode = 123456))
 def person(name,age,*,city,job): # 命名关键字参数需要一个特殊分隔符*
 				 # *后面的参数被视为命名关键字参数
 	print(name,age,city,job)
-
 print(person('Jack',24,city = 'Beijing',job = 'Engineer'))
 
 
