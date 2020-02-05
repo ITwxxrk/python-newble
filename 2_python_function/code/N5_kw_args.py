@@ -118,8 +118,7 @@ print(f2(*args,**kw))
 ## practice:
 ### 以下函数允许计算两个数的乘积，请稍加改造，变成可接收一个或多个数并计算乘积：
 ### def product(x,y):
-###      return x * y
-
+### 	return x * y
 def product(x=0, y=0,*args):
      return x * y
 print('product(5) =', product(5))
