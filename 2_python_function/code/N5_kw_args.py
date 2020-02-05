@@ -14,8 +14,7 @@ print(person('BOb',35,city = 'Beijing'))
 print(person('Adam',45,gender = 'M',job = 'Engineer'))
 
 
-# 关键字参数有什么用？
-# 它可以扩展函数的功能。
+# 关键字参数可以扩展函数的功能：
 
 # 比如，在person函数里，我们保证能接收到name和age这两个参数，
 # 但是，如果调用者愿意提供更多的参数，我们也能收到。
