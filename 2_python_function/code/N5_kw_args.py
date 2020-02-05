@@ -57,7 +57,7 @@ print(person('Jack',24,city = 'Beijing',adder = 'Chaoyang',zipcode = 123456))
 ### 例如，只接收city和job作为关键字参数。
 ### 这种方式定义的函数如下：
 def person(name,age,*,city,job): # 命名关键字参数需要一个特殊分隔符*
-								 # *后面的参数被视为命名关键字参数
+				 # *后面的参数被视为命名关键字参数
 	print(name,age,city,job)
 
 print(person('Jack',24,city = 'Beijing',job = 'Engineer'))
