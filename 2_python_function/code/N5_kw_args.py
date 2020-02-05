@@ -26,7 +26,7 @@ print(person('Adam',45,gender = 'M',job = 'Engineer'))
 extra = {'city': 'Beijing', 'job': 'Engineer'}
 print(person('Jack', 24, city=extra['city'], job=extra['job']))
 
-# 当然，上面复杂的调用可以用简化的写法：
+# 上面复杂的调用可以用简化的写法：
 extra = {'city': 'Beijing', 'job': 'Engineer'}
 print(person('Jack', 24, **extra))
 
