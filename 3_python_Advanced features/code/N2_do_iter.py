@@ -42,6 +42,7 @@ print(isinstance(123,Iterable))	# 整数是否可迭代
 for i,value in enumerate(['A','B','C']):
 	print(i,value)
 
+	
 ### practice:
 ### 使用迭代查找一个list中最小和最大值,并返回一个tuple
 def findMinAndMax(L):
