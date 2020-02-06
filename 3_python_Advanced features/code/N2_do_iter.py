@@ -6,6 +6,7 @@
 ### Python的for循环不仅可以用在list或tuple上,还可以作用在其他可迭代对象上
 ### 只要是可迭代对象,无论有无下标,都可以迭代,比如dict就可以迭代
 
+
 d = {'a':1,'b':2,'c':3}
 for key in d:
 	print(key)
