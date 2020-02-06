@@ -32,6 +32,7 @@ for ch in 'ABC':
 ## 通过collections模块的Iterable类型,判断一个对象是可迭代对象
 from collections import Iterable
 
+
 print(isinstance('abc',Iterable))	# str是否可迭代
 print(isinstance([1,2,3],Iterable))	 # list是否可迭代
 print(isinstance(123,Iterable))	# 整数是否可迭代
