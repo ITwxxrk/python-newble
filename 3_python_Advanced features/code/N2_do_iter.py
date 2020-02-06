@@ -28,6 +28,7 @@ for ch in 'ABC':
 	print(ch)
 # 当我们使用for循环时，只要作用于一个可迭代对象，for循环就可以正常运行，而我们不太关心该对象究竟是list还是其他数据类型。
 
+
 ## 通过collections模块的Iterable类型,判断一个对象是可迭代对象
 from collections import Iterable
 
