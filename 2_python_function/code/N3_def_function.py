@@ -5,7 +5,6 @@
 ## 然后,在缩进块中编写函数体,函数的返回值用return语句返回。
 
 ### 例子:求绝对值的my_abs函数
-
 # def my_abs(x):
 # 	if x>0:
 # 		return x
