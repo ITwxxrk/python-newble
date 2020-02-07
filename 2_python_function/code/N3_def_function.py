@@ -37,7 +37,6 @@ if age >=18:
 ### 如果参数个数不对,Python解释器会自动检查出来,并抛出TypeError
 ### 如果参数类型不对,Python解释器就无法帮我们检查
 ### 数据类型检查可以用内置函数isinstance()实现
-
 def my_abs(x):
 	if not isinstance(x,(int,float)):	
 			#对参数类型做检查,只允许整数和浮点数类型的参数
