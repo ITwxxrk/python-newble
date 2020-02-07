@@ -91,7 +91,6 @@ print(r)
 ### 一元二次方程的求根公式为：
 ### x=（-b(+/-)sqrt(b^2-4*a*c)）/(2*a)
 ### 计算平方根可以调用math.sqrt()函数
-
 import math
 def quadratic(a,b,c):
 	if not isinstance(a,(int,float))&isinstance(b,(int,float))&isinstance(c,(int,float)):	
