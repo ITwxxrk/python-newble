@@ -60,6 +60,7 @@ print(L2)
 print(L2[2])
 print(L2[3])
 
+
 p = ['asp','php']
 s = ['python','java',p,'scheme']
 print(s)
