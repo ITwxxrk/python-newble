@@ -29,6 +29,7 @@ print(10>135)	# False:假
 print(5>3 or 10>135)	# or:或,条件中有一个为真即全为真True;条件全为假时即为假False
 print(5>3 and 10>135)	# and:并,条件中有一个为假即全为假False;条件全为真时即为真True
 
+
 ### 空值:None
 
 ### 变量
