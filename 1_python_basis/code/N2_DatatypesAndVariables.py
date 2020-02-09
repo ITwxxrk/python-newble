@@ -34,7 +34,7 @@ print(5>3 and 10>135)	# and:并,条件中有一个为假即全为假False;条件
 
 
 ### 变量
-a = 1 		### 动态语言
+a = 1 	### 动态语言
 print(a)
 a='ABC'
 print(a)
