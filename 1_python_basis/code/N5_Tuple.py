@@ -23,7 +23,7 @@ print(t)
 t = (1)
 print(t) # 1
 t = (1,)
-print(t)	# (1,)
+print(t) # (1,)
 
 
 ## “可变的”tuple
