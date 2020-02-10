@@ -5,7 +5,7 @@
 classmates = ('Michael','Bob','Tracy')
 
 
-##	获取元素的方法:同list相同
+## 获取元素的方法:同list相同
 ### 用索引访问tuple中的每一个位置的元素
 ### 索引是从0开始的,最后一个元素的索引是len(classmates)-1
 ### 当索引超出了范围时,Python会报一个IndexError错误
