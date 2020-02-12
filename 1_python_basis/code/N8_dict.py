@@ -43,7 +43,6 @@ print(d['Jack'])
 
 ## 如果key不存在,dict就会报错
 ## 要避免key不存在的错误,有两种办法:
-
 ### 一是通过in判断key是否存在
 #'Thomas' in d   #可执行,不输出结果
 print('Thomas' in d)
