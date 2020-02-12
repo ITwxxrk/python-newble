@@ -46,7 +46,6 @@ print(d['Jack'])
 ### 一是通过in判断key是否存在
 #'Thomas' in d   #可执行,不输出结果
 print('Thomas' in d)
-
 ### 二是通过dict提供的get()方法,如果key不存在,可以返回None,或者自己指定的value
 #d.get('Thomas')	#可执行,不输出结果
 print(d.get('Thomas'))		# 返回None
