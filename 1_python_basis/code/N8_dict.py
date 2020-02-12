@@ -49,7 +49,7 @@ print('Thomas' in d)
 ### 二是通过dict提供的get()方法,如果key不存在,可以返回None,或者自己指定的value
 #d.get('Thomas')	#可执行,不输出结果
 print(d.get('Thomas'))		# 返回None
-							# 注意:返回None的时候Python的交互环境不显示结果
+				# 注意:返回None的时候Python的交互环境不显示结果
 #d.get('Thomas',-1)
 print(d.get('Thomas',-1))	# 返回-1
 
