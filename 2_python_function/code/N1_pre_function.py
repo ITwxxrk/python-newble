@@ -17,7 +17,6 @@ print('s1=%f\ns2=%f\ns3=%f\n' %(s1,s2,s3))
 ### 有了函数,我们就不再每次写s = 3.14 * x * x,
 ### 而是写成更有意义的函数调用s = area_of_circle(x),
 ### 而函数area_of_circle本身只需要写一次,就可以多次调用。
-
 PI=3.14
 def area_f_cricle(x):
 	s = PI * x * x
