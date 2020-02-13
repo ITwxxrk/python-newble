@@ -24,7 +24,6 @@
 ### 可以用pass语句
 def nop():
 	pass
-
 ### pass还可以用在其他语句里
 age = 10
 if age >=18:
