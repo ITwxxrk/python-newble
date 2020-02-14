@@ -60,7 +60,6 @@ def move(x,y,step,angle=0):
 	return nx,ny
 x,y = move(100,100,60,math.pi/6)
 print(x,y)
-
 #### 其实这只是一种假象,Python函数返回的仍然是单一值
 r = move(100, 100, 60, math.pi / 6)
 print(r)
