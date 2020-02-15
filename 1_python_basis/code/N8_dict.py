@@ -91,4 +91,3 @@ print(d)
 key = [1,2,3]
 print(key)
 # d[key] = 'a list'会报错
-
