@@ -57,7 +57,6 @@ print(d.get('Thomas'))		# 返回None
 print(d.get('Thomas',-1))	# 返回-1
 
 
-
 ## 删除一个key,用pop(key)方法,对应的value也会从dict中删除
 #d.pop('Bob')
 print(d.pop('Bob'))
