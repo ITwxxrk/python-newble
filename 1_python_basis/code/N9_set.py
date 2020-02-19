@@ -64,6 +64,7 @@ b = a.replace('a','A')
 print(b)
 print(a)
 
+
 ### 当我们调用a.replace('a', 'A')时,
 ### 实际上调用方法replace是作用在字符串对象'abc'上的,
 ### 而这个方法虽然名字叫replace,但却没有改变字符串'abc'的内容。
