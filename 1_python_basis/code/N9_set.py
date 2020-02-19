@@ -51,7 +51,6 @@ print(s1|s2)	## 或
 a = ['c','b','a']
 a.sort()	## 排序
 print(a)
-
 ### 对于不可变对象,比如str,对str进行操作
 a = 'abc'
 print(a.replace('a','A'))
