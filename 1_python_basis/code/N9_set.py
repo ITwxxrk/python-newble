@@ -56,6 +56,7 @@ a = 'abc'
 print(a.replace('a','A'))
 print(a)
 
+
 ### 虽然字符串有个replace()方法,也确实变出了'Abc',但变量a最后仍是'abc'
 ### 以上代码等同于:
 a = 'abc'
