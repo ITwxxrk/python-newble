@@ -21,7 +21,6 @@ PI=3.14
 def area_f_cricle(x):
 	s = PI * x * x
 	return s
-
 s1 = area_f_cricle(r1)		# 函数调用
 s2 = area_f_cricle(r2)
 s3 = area_f_cricle(r3)
