@@ -66,7 +66,6 @@ print(enroll('Adam','M',city = 'Tianjing'))
 def add_end(L=[]):
 	L.append('END')
 	return L
-
 print(add_end([1,2,3]))
 print(add_end(['x','y','z']))
 print(add_end())
