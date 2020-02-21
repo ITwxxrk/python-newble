@@ -11,7 +11,6 @@
 ### 用来计算x的二次方
 def power1(x):	# x:位置参数
 	return  x + x
-
 print(power1(5))
 print(power1(15))
 
