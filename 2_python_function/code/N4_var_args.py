@@ -33,7 +33,6 @@ def power3(x,n=2):	# n=2,默认参数
 		n = n - 1
 		s = s * x
 	return s
-
 print(power3(5))
 print(power3(5,2))
 print(power3(5,4)) # 对于n>2的其他情况,就必须明确地传入n
