@@ -8,7 +8,6 @@
 
 ## 位置参数
 
-
 ### 用来计算x的二次方
 def power1(x):	# x:位置参数
 	return  x + x
