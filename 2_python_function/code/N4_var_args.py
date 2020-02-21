@@ -53,7 +53,6 @@ def enroll(name,gender,age = 6,city = 'Beijing'):
 	print('gender:',gender)
 	print('age:',age)
 	print('city',city)
-
 print(enroll('Sarah','F'))
 print(enroll('Bob','M',7))
 	# 除了name，gender这两个参数外，最后1个参数应用在参数age上，
