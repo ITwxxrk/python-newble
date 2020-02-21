@@ -22,7 +22,6 @@ def power2(x,n):
 		n = n - 1
 		s = s * x
 	return s
-
 print(power2(5,2))
 print(power2(5,3))
 
