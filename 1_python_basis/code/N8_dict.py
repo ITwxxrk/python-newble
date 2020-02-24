@@ -1,6 +1,5 @@
 # dict:字典,全称dictionary
 
-
 ## 使用键-值（key-value）存储,具有极快的查找速度
 ### 假设要根据同学的名字查找对应的成绩,如果用list实现,需要两个list。
 ### names = ['Michael', 'Bob', 'Tracy']
